@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=When a man ceases to understand something, he is on the right path)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote="When a man ceases to understand something, he is on the right path")](https://github.com/piyushsuthar/github-readme-quotes)
 
 Hi)
 
